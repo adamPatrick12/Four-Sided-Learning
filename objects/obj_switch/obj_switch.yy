@@ -30,8 +30,8 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "oLevel1",
+    "path": "folders/Objects/oLevel1.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_switch",

@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "sLevel1",
+    "path": "folders/Sprites/sLevel1.yy",
   },
   "resourceVersion": "1.0",
   "name": "sWall2",

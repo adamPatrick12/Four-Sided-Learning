@@ -1,8 +1,8 @@
-  //Checking user Input
+   //Checking user Input
 
 key_left = keyboard_check(vk_left); // Virtual keyboard left - checks if pressing left
 key_right = keyboard_check(vk_right);
-key_jump = keyboard_check_pressed(vk_space); // Checks spacebar press for 1 frame, returns 0 afterwards
+key_jump = keyboard_check_pressed(vk_up); // Checks spacebar press for 1 frame, returns 0 afterwards
 
 var move = key_right - key_left;  // 1 if moving right -1 if moving left 0 if both
 
@@ -14,7 +14,7 @@ vertSpeed = vertSpeed + grv;
 
 if (place_meeting (x,y+1,oWall)) && (key_jump)
 {
-	vertSpeed = -7;
+	vertSpeed = -12;
 
 }
 
@@ -45,4 +45,7 @@ y = y +  vertSpeed;
 // Animation
 
 
+if (keyboard_check(ord("R"))){
+	room_restart();
+};
 

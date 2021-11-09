@@ -1,7 +1,4 @@
-
-	
- 
- //Checking user Input
+    //Checking user Input
 
 key_left = keyboard_check(ord("A")); // Virtual keyboard left - checks if pressing left
 key_right = keyboard_check(ord("D"));
@@ -10,14 +7,13 @@ key_jump = keyboard_check_pressed(ord("W")); // Checks spacebar press for 1 fram
 var move = key_right - key_left;  // 1 if moving right -1 if moving left 0 if both
 
 //caculate movement
-
 horzSpeed = move * walksp;
-
+ 
 vertSpeed = vertSpeed + grv;
 
 if (place_meeting (x,y+1,oWall)) && (key_jump)
 {
-	vertSpeed = -7;
+	vertSpeed = -12;
 
 }
 
@@ -49,4 +45,6 @@ y = y +  vertSpeed;
 
 
 
-  
+
+
+
