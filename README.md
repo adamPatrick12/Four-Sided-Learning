@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-    <img src="README-Images/07f35d65-7f0f-430c-928d-d9fb32f3a4cf copy.png" alt="Logo" width="80" height="80">
+    <img src="README-imgs/player2.png" alt="Logo" width="80" height="80"> <img src="README-imgs/player.png.png" alt="Logo" width="80" height="80">
   </a>
 
   <h2 align="center">Four Sided Learning</h2>
@@ -65,6 +65,10 @@ levels, and using new element values to pass through certain sections of the lev
 </div>
 
 ## Project Preview
+
+ <div align="center" >
+ <img src="README-imgs/level2.png" alt="screenshot" width="600" height="400"> 
+    <img src="README-imgs/level3.png" alt="screenshot" width="600" height="400"> 
 
 
 
