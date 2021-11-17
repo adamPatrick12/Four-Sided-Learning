@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sWall",
-    "path": "sprites/sWall/sWall.yy",
+    "name": "sWallH2O",
+    "path": "sprites/sWallH2O/sWallH2O.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "oLevel3",
+    "path": "folders/Objects/oLevel3.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oWall",
+  "name": "oWallH2O",
   "tags": [],
   "resourceType": "GMObject",
 }
