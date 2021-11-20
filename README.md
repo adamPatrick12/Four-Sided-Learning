@@ -67,8 +67,8 @@ levels, and using new element values to pass through certain sections of the lev
 ## Project Preview
 
  <div align="center" >
- <img src="README-imgs/level2.png" alt="screenshot" width="600" height="400"> 
-    <img src="README-imgs/level3.png" alt="screenshot" width="600" height="400"> 
+ <img src="README-imgs/level2.png" alt="screenshot" width="600" height="300"> 
+    <img src="README-imgs/level3.png" alt="screenshot" width="600" height="300"> 
 
 
 
