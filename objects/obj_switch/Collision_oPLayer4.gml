@@ -1,4 +1,4 @@
-if(is_triggered == true){
+  if(is_triggered == true){
 	exit;
 }
 
